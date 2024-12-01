@@ -1,0 +1,8 @@
+name,description,project_code
+Inventory Management System,"An application to track inventory levels, orders, sales, and deliveries for small businesses",INV123
+Weather Dashboard,A dashboard that fetches and displays real-time weather data from an API for different cities,WEA456
+Task Manager,"A tool to create, organize, and track tasks or to-dos with deadlines, priorities, and reminders",TSK789
+E-commerce Website,"A full-stack application with user authentication, product listings, a shopping cart, and payment integration",ECM101
+Social Media Analytics Tool,"A platform to analyze engagement, follower growth, and content performance across social media accounts",SMA202
+Expense Tracker,"An application that allows users to track their daily expenses, categorize them, and visualize spending patterns through charts and summaries",X7Y8Z9
+Online Learning Platform,"A platform where users can access online courses, track progress, take quizzes, and earn certificates upon completion",INV123
